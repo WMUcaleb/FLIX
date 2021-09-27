@@ -15,9 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79730941/134954116-a295302f-83ad-4545-b89b-45185a7090a4.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -28,20 +26,16 @@ Describe any challenges encountered while building the app.
 
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [X] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [X] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79730941/134954116-a295302f-83ad-4545-b89b-45185a7090a4.gif)
-
-
-
+![ezgif com-gif-make](https://user-images.githubusercontent.com/79730941/134954428-29c970f9-91d0-4d3e-bedb-576440cdf20d.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
